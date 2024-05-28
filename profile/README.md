@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-This organization was reated to host my personal custom chips i made for wokwi simulator
+This organization was created to host my personal custom chips i made for wokwi simulator
 <!--
 
 **Here are some ideas to get you started:**
